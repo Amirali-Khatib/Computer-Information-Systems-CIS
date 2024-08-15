@@ -6,5 +6,4 @@ Here is the list of the projects I've done as a student and a teaching assistant
 3. Data extraction of Stats-bomb soccer analysis event data (using **object-oriented programming**)
 4. Exploratory data analysis of 2018 FIFA WORLD CUP event data (using **Matplolib**, **Seaborn**, and **Mplsoccer**)
 5. Taxi driver allocation using Numpy
-6. 
-
+6. Factory breakdown & Vu platform report (these codes have some inconsistency with the current version of Python and need a little bit of modification)
